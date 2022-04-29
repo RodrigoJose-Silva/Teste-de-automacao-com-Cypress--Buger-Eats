@@ -1,0 +1,50 @@
+{
+    "signUp": {
+        "name": "Rodrigo José",
+        "cpf": "12345678901",
+        "email": "qatest@gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "06186140",
+            "street": "Rua São Bento",
+            "number": "127",
+            "details": "casa 4",
+            "disctrict": "São Pedro",
+            "city_state": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Fernando Tavares",
+        "cpf": "123456789AA",
+        "email": "qatest@qatest.com",
+        "whatsapp": "1188888888",
+        "address": {
+            "postalcode": "06186140",
+            "street": "Rua São Bento",
+            "number": "127",
+            "details": "casa 4",
+            "disctrict": "São Pedro",
+            "city_state": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rodrigo José",
+        "cpf": "12345678901",
+        "email": "qatest.gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "06186130",
+            "street": "Rua Luiz Henrique de Oliveira",
+            "number": "123",
+            "details": "casa 12",
+            "disctrict": "Quitaúna",
+            "city_state": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
